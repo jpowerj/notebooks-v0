@@ -1,5 +1,5 @@
 ---
-title: Welcome to Quartz
+title: Welcome to Jeff's Brain Dump
 ---
 
 This is a blank Quartz installation.

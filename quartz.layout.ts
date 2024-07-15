@@ -29,7 +29,7 @@ export const defaultContentPageLayout: PageLayout = {
     Component.DesktopOnly(Component.Explorer()),
   ],
   right: [
-    Component.RecentNotes({limit: 2}),
+    // Component.RecentNotes({limit: 2}),
     Component.DesktopOnly(Component.TableOfContents()),
     Component.DesktopOnly(Component.Graph()),
     Component.Backlinks(),

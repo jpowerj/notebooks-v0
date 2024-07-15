@@ -5,6 +5,7 @@ aliases:
 tags:
   - Russia
   - Soviet_Union
+index: "true"
 ---
 If you read a bunch of esoteric books about the [[Cold_War|Cold War]] twenty years after it ended for no reason, like I do, you'll find a bunch of hand-wringing from US policymakers about "Soviet imperialism", a notion which spreads by the 1970s into the Non-Aligned Movement (especially after the US-China rapprochement). When I first started digging into this, I thought of [[Fidel_Castro|Fidel Castro]]'s very apt point during a 1973 speech in Algeria:
 

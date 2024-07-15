@@ -1,5 +1,4 @@
 ---
-title: "Cold War"
-aliases:
-  - "Cold War"
+title: Cold War
+index: "true"
 ---

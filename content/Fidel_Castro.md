@@ -1,7 +1,6 @@
 ---
-title: "Fidel Castro"
-aliases:
-  - "Fidel Castro"
+title: Fidel Castro
 tags:
   - Cuba
 ---
+Leader of [[Cuba]]

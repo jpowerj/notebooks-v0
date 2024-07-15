@@ -8,9 +8,14 @@ My "first brain" gets tired if it thinks about one thing for more than ~5 minute
 
 ## Notebook Index
 
-```dataview
-TABLE WITHOUT ID link(file.link, choice(title, title, file.aliases[0])) AS "Title", file.mtime AS "Last Updated"
-FROM "content"
-WHERE index = "true"
-SORT file.mtime DESC
-```
+<!-- QueryToSerialize: TABLE WITHOUT ID link(file.link, choice(title, title, file.aliases[0])) AS "Title", file.mtime AS "Last Updated" FROM "content" WHERE index = "true" SORT file.mtime DESC -->
+<!-- SerializedQuery: TABLE WITHOUT ID link(file.link, choice(title, title, file.aliases[0])) AS "Title", file.mtime AS "Last Updated" FROM "content" WHERE index = "true" SORT file.mtime DESC -->
+
+| Title                                                     | Last Updated             |
+| --------------------------------------------------------- | ------------------------ |
+| [[content/Chechnya.md\|Chechnya]]                         | 12:01 AM - July 15, 2024 |
+| [[content/Population_Transfers.md\|Population Transfers]] | 12:00 AM - July 15, 2024 |
+| [[content/Cold_War.md\|Cold War]]                         | 11:47 PM - July 14, 2024 |
+| [[content/Cuba.md\|Cuba]]                                 | 11:30 PM - July 14, 2024 |
+| [[content/Russian_Imperialism.md\|Russian Imperialism]]   | 11:29 PM - July 14, 2024 |
+<!-- SerializedQuery END -->

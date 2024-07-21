@@ -6,4 +6,4 @@ category: Person
 first_name: Alfred North
 last_name: Whitehead
 ---
-Collaborator with [[Bertrand_Russell|Bertrand Russell]] on [[Principia Mathematica]].
+Collaborator with [[Bertrand_Russell|Bertrand Russell]] on [[Principia_Mathematica]].

@@ -6,7 +6,7 @@ index: "false"
 
 My "first brain" gets tired if it thinks about one thing for more than ~5 minutes, which means that the attention required to complete a [full blog post](https://jjacobs.me/blog) is rare. Hence, as a shameless ripoff of Cosma Shalizi's [notebooks](http://bactra.org/notebooks/), here is where I'll post the fleeting thoughts that pop up as I read books and make connections between things 🙈
 
-To some extent they're separated into categories, but yeah the exciting part is when there's a [[Crossover in Categories]], like my main math interest ([[Insolubility_of_the_Quintic|Insolubility of the Quintic]]) being solved by a 20-year-old [[Evariste_Galois|Evariste Galois]], who had just recently been released from prison for his participation in the [[July_Revolution|July Revolution]] 😱. Or, even more straightforwardly, how I put [[Bertrand_Russell|Bertrand Russell]] in the [[Math]] category because I linked to him in the context of [[Axiomatization of Mathematics]], but he also led a super inspiring campaign to hold the US accountable for War Crimes in Vietnam (the [[Russell-Sartre Tribunal]])!
+To some extent they're separated into categories, but yeah the exciting part is when there's a [[Crossover in Categories]], like my main math interest ([[Insolubility_of_the_Quintic|Insolubility of the Quintic]]) being solved by a 20-year-old [[Evariste_Galois|Evariste Galois]], who had just recently been released from prison for his participation in the [[July_Revolution|July Revolution]] 😱. Or, even more straightforwardly, how I put [[Bertrand_Russell|Bertrand Russell]] in the [[Math/]] category because I linked to him in the context of [[Axiomatization of Mathematics]], but he also led a super inspiring campaign to hold the US accountable for War Crimes in Vietnam (the [[Russell-Sartre Tribunal]])!
 
 I'm... still figuring out how in-text citations like [@wood_chechnya_2007] work, so bear with me on that part!
 
@@ -14,16 +14,17 @@ I'm... still figuring out how in-text citations like [@wood_chechnya_2007] work,
 <!-- QueryToSerialize: TABLE WITHOUT ID link(file.name, title) AS "Page", file.mtime AS "Last Updated" FROM "" WHERE index = "true" SORT file.mtime DESC -->
 <!-- SerializedQuery: TABLE WITHOUT ID link(file.name, title) AS "Page", file.mtime AS "Last Updated" FROM "" WHERE index = "true" SORT file.mtime DESC -->
 
-| Page                                                                 | Last Updated             |
-| -------------------------------------------------------------------- | ------------------------ |
-| [[World_History/French_Revolution.md\|French Revolution]]            | 8:35 PM - July 16, 2024  |
-| [[Math/Insolubility_of_the_Quintic.md\|Insolubility of the Quintic]] | 8:30 PM - July 16, 2024  |
-| [[World_History/Soviet_Union.md\|Soviet Union]]                      | 1:08 AM - July 15, 2024  |
-| [[World_History/Chechnya.md\|Chechnya]]                              | 12:01 AM - July 15, 2024 |
-| [[World_History/Population_Transfers.md\|Population Transfers]]      | 12:00 AM - July 15, 2024 |
-| [[World_History/Cold_War.md\|Cold War]]                              | 11:47 PM - July 14, 2024 |
-| [[World_History/Cuba.md\|Cuba]]                                      | 11:30 PM - July 14, 2024 |
-| [[World_History/Russian_Imperialism.md\|Russian Imperialism]]        | 11:29 PM - July 14, 2024 |
+| Page                                                                                   | Last Updated             |
+| -------------------------------------------------------------------------------------- | ------------------------ |
+| [[World_History/Lao_Peoples_Democratic_Republic.md\|Lao People's Democratic Republic]] | 9:15 PM - July 16, 2024  |
+| [[World_History/French_Revolution.md\|French Revolution]]                              | 8:35 PM - July 16, 2024  |
+| [[Math/Insolubility_of_the_Quintic.md\|Insolubility of the Quintic]]                   | 8:30 PM - July 16, 2024  |
+| [[World_History/Soviet_Union.md\|Soviet Union]]                                        | 1:08 AM - July 15, 2024  |
+| [[World_History/Chechnya.md\|Chechnya]]                                                | 12:01 AM - July 15, 2024 |
+| [[World_History/Population_Transfers.md\|Population Transfers]]                        | 12:00 AM - July 15, 2024 |
+| [[World_History/Cold_War.md\|Cold War]]                                                | 11:47 PM - July 14, 2024 |
+| [[World_History/Cuba.md\|Cuba]]                                                        | 11:30 PM - July 14, 2024 |
+| [[World_History/Russian_Imperialism.md\|Russian Imperialism]]                          | 11:29 PM - July 14, 2024 |
 <!-- SerializedQuery END -->
 
 <!-- Dataview (for debugging)

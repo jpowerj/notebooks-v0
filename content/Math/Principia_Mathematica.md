@@ -4,6 +4,7 @@ aliases:
   - Principia Mathematica
 tags:
   - Axiomatic_Set_Theory
+  - Book
 category: Book
 authors:
   - "[[Bertrand_Russell|Bertrand Russell]]"

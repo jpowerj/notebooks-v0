@@ -22,18 +22,18 @@ I'm... still figuring out how in-text citations like [@wood_chechnya_2007] work,
 <!-- QueryToSerialize: TABLE WITHOUT ID link(file.name, title) AS "Page", file.mtime AS "Last Updated" FROM "" WHERE index = "true" SORT file.mtime DESC -->
 <!-- SerializedQuery: TABLE WITHOUT ID link(file.name, title) AS "Page", file.mtime AS "Last Updated" FROM "" WHERE index = "true" SORT file.mtime DESC -->
 
-| Page                                                                                   | Last Updated             |
-| -------------------------------------------------------------------------------------- | ------------------------ |
-| [[World_History/Quantification.md\|Quantification]]                                    | 10:52 PM - July 20, 2024 |
-| [[World_History/Lao_Peoples_Democratic_Republic.md\|Lao People's Democratic Republic]] | 9:15 PM - July 16, 2024  |
-| [[World_History/French_Revolution.md\|French Revolution]]                              | 8:35 PM - July 16, 2024  |
-| [[Math/Insolubility_of_the_Quintic.md\|Insolubility of the Quintic]]                   | 8:30 PM - July 16, 2024  |
-| [[World_History/Soviet_Union.md\|Soviet Union]]                                        | 1:08 AM - July 15, 2024  |
-| [[World_History/Chechnya.md\|Chechnya]]                                                | 12:01 AM - July 15, 2024 |
-| [[World_History/Population_Transfers.md\|Population Transfers]]                        | 12:00 AM - July 15, 2024 |
-| [[World_History/Cold_War.md\|Cold War]]                                                | 11:47 PM - July 14, 2024 |
-| [[World_History/Cuba.md\|Cuba]]                                                        | 11:30 PM - July 14, 2024 |
-| [[World_History/Russian_Imperialism.md\|Russian Imperialism]]                          | 11:29 PM - July 14, 2024 |
+| Page                                                                               | Last Updated             |
+| ---------------------------------------------------------------------------------- | ------------------------ |
+| [[The_World/Quantification.md\|Quantification]]                                    | 10:52 PM - July 20, 2024 |
+| [[The_World/Lao_Peoples_Democratic_Republic.md\|Lao People's Democratic Republic]] | 9:15 PM - July 16, 2024  |
+| [[The_World/French_Revolution.md\|French Revolution]]                              | 8:35 PM - July 16, 2024  |
+| [[Math/Insolubility_of_the_Quintic.md\|Insolubility of the Quintic]]               | 8:30 PM - July 16, 2024  |
+| [[The_World/Soviet_Union.md\|Soviet Union]]                                        | 1:08 AM - July 15, 2024  |
+| [[The_World/Chechnya.md\|Chechnya]]                                                | 12:01 AM - July 15, 2024 |
+| [[The_World/Population_Transfers.md\|Population Transfers]]                        | 12:00 AM - July 15, 2024 |
+| [[The_World/Cold_War.md\|Cold War]]                                                | 11:47 PM - July 14, 2024 |
+| [[The_World/Cuba.md\|Cuba]]                                                        | 11:30 PM - July 14, 2024 |
+| [[The_World/Russian_Imperialism.md\|Russian Imperialism]]                          | 11:29 PM - July 14, 2024 |
 <!-- SerializedQuery END -->
 
 <!-- Dataview (for debugging)
@@ -58,8 +58,9 @@ SORT file.mtime DESC
 <!-- SerializedQuery: LIST WHERE file.folder != "" GROUP BY file.folder -->
 - Art_Things
 - Math
+- Misc
 - References
-- World_History
+- The_World
 <!-- SerializedQuery END -->
 <!--
 ```dataview

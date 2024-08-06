@@ -1,4 +1,0 @@
----
-title: France
-category: Country
----

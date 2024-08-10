@@ -4,6 +4,8 @@ topic: math
 index: "true"
 aliases:
   - Insolubility of the Quintic
+tags:
+  - Concept
 ---
 At some point in studying Algebra, we learn about the Quadratic Equation: given a polynomial equation of the form
 $$

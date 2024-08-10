@@ -1,5 +1,10 @@
 ---
 title: Teddy Faley
+tags:
+  - Person
+last_name: Faley
+first_name: Teddy
+category: [Rapper]
 ---
 
 ## Teddy Faley

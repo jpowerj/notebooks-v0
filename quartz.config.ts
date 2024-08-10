@@ -16,7 +16,7 @@ const config: QuartzConfig = {
     },
     locale: "en-US",
     baseUrl: "jjacobs.me",
-    ignorePatterns: ["private", "templates", ".obsidian"],
+    ignorePatterns: ["private", "templates", ".obsidian","fileClass"],
     defaultDateType: "created",
     theme: {
       fontOrigin: "googleFonts",

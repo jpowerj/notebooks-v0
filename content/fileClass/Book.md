@@ -10,18 +10,18 @@ extends:
 savedViews: []
 favoriteView: 
 fieldsOrder:
-  - GUzggz
+  - fHQFyD
   - 94S77a
-version: "2.3"
+version: "2.5"
 fields:
   - name: name
     type: Input
     options: {}
     path: ""
     id: 94S77a
-  - name: author
+  - name: authors
     type: Input
     options: {}
     path: ""
-    id: GUzggz
+    id: fHQFyD
 ---

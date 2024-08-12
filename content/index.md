@@ -44,29 +44,6 @@ SORT file.mtime DESC
 
 ### Current Categories:
 
-<!-- QueryToSerialize: LIST WHERE file.folder != "" GROUP BY file.folder -->
-<!-- SerializedQuery: LIST WHERE file.folder != "" GROUP BY file.folder -->
-- Art_Things
-- Art_Things/Artists
-- Art_Things/Songs
-- Day_to_Day
-- Excalidraw
-- fileClass
-- Growth
-- Math
-- Misc
-- References
-- The_World
-<!-- SerializedQuery END -->
-
-<!--
-```dataview
-LIST
-WHERE file.folder != ""
-GROUP BY file.folder
-```
---->
-
 <!-- QueryToSerialize: TABLE WHERE contains(file.folder, "/") = false AND file.folder != "fileClass" AND file.folder != "" GROUP BY link(file.folder) AS "Category" -->
 <!-- SerializedQuery: TABLE WHERE contains(file.folder, "/") = false AND file.folder != "fileClass" AND file.folder != "" GROUP BY link(file.folder) AS "Category" -->
 

@@ -2,21 +2,11 @@
 title: Welcome to Jeff's Second Brain
 index: "false"
 ---
-## What Is This?
 
-My "first brain" gets tired if it thinks about one thing for more than ~5 minutes, which means that the attention required to complete a [full blog post](https://jjacobs.me/blog) is rare. Hence, as a shameless ripoff of Cosma Shalizi's [notebooks](http://bactra.org/notebooks/), here is where I'll post the fleeting thoughts that pop up as I read books and make connections between things 🙈
+> [!faq]- What Is This?
+> ![[What_Is_This#What Is This?|What Is This?]]
 
-To some extent they're separated into categories, but there are two things that Obsidian+Quartz gives me that I'm hoping will help organize my otherwise-chaotic ADHD brain: **Ontology** and **Cross-References**.
 
-### Ontology
-
-At some point between high school and undergrad, I had my mind completely blown by [[Object-Oriented Programming]]. To me it was like, discovering the internal language that my brain had been using my whole life to store/organize information.
-
-### Cross-References
-
-Though there are a few top-level categories[^1], the exciting part is when there's a [[Crossover in Categories]], like my main math interest ([[Insolubility_of_the_Quintic|Insolubility of the Quintic]]) being solved by a 20-year-old [[Evariste_Galois|Evariste Galois]], who had just recently been released from prison for his participation in the [[July_Revolution|July Revolution]] 😱. Or, even more straightforwardly, how I put [[Bertrand_Russell|Bertrand Russell]] in the [[Math/]] category because I linked to him in the context of [[Axiomatization of Mathematics]], but he also led a super inspiring campaign to hold the US accountable for War Crimes in Vietnam (the [[Russell-Sartre Tribunal]])!
-
-I'm... still figuring out how in-text citations like [@wood_chechnya_2007] work, so bear with me on that part!
 
 ## Notebook Index
 <!-- QueryToSerialize: TABLE WITHOUT ID link(file.name, title) AS "Page", file.mtime AS "Last Updated" FROM "" WHERE index = "true" SORT file.mtime DESC -->
@@ -63,11 +53,13 @@ SORT file.mtime DESC
 - Art_Things/Artists
 - Art_Things/Songs
 - Day_to_Day
+- Excalidraw
 - fileClass
 - Growth
 - Math
 - Misc
 - References
+- templates
 - The_World
 <!-- SerializedQuery END -->
 <!--

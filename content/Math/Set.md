@@ -1,7 +1,7 @@
 ---
 title: Set
 tags:
-  - Axiomatic_Set_Theory
+  - Concept/Math/Axiomatic_Set_Theory
 ---
 For a bunch of... initially strange but ultimately interesting reasons, mathematicians and philosophers in the late 18th and early 19th century would sometimes get really hung up on how exactly to define a **Set**, as a mathematical object.
 

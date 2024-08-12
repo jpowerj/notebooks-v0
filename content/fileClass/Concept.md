@@ -10,5 +10,6 @@ extends:
 savedViews: []
 favoriteView: 
 fieldsOrder: []
-version: "2.1"
+version: "2.3"
+fields: []
 ---

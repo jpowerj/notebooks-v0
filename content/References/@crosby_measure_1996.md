@@ -1,6 +1,9 @@
 ---
 title: The Measure of Reality
-category: Book
+category:
+  - Book
 authors:
   - Alfred W. Crosby
+tags:
+  - Book
 ---
